@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Java Full Stack Development<br>👯 I’m looking to collaborate on Projects based on Machine Learning & Java Full Stack<br>🌱 I’m currently learning  DSA<br>💬 Ask me about Python, Java, Web Development<br>
+Hey there! 👋 I'm Bala Rajesh
+💻 Full Stack Developer passionate about Java, Python & Machine Learning
+🌟 Building projects that solve real-world problems
+🤝 Open to collaborate on innovative tech solutions
+📬 Let's connect: balarajeshkunapareddy@gmail.com
 
 
 ## 🌐 Socials:
