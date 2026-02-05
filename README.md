@@ -1,5 +1,5 @@
 # 💫 About Me:
-lHey there! 👋 I'm Bala Rajesh💻 Full Stack Developer passionate about Java, Python & Machine Learning🌟 Building projects that solve real-world problems🤝 Open to collaborate on innovative tech solutions📬 Let's connect: [balarajeshkunapareddy@gmail.com](mailto:balarajeshkunapareddy@gmail.com)
+Hey there! 👋 I'm Bala Rajesh💻 Full Stack Developer passionate about Java, Python & Machine Learning🌟 Building projects that solve real-world problems🤝 Open to collaborate on innovative tech solutions📬 Let's connect: [balarajeshkunapareddy@gmail.com](mailto:balarajeshkunapareddy@gmail.com)
 
 
 ## 🌐 Socials:
